@@ -24,20 +24,13 @@ Click the links below to view the evidence (the "proof") for each core skill:
 
 | Project Repository | Evidence Provided |
 | :--- | :--- |
-| **[Link] Algorithmic-Logic-Portfolio** | Documents detailing Stacks/Queues logic and mathematical analysis. |
-| **[Link] HinaM-SQL-Portfolio** | T-SQL scripts and reports for the "Safety At Work" database. |
-| **[Link] QuickCare-System-Design** | UML/ERD diagrams and security requirements for the healthcare application. |
+| **Algorithmic-Logic-Portfolio** | Documents detailing Stacks/Queues logic and mathematical analysis. |
+| **HinaM-SQL-Portfolio** | T-SQL scripts and reports for the "Safety At Work" database. |
+| **QuickCare-System-Design** | UML/ERD diagrams and security requirements for the healthcare application. |
 
 ---
 
 ## 📧 Contact
 
-**[Link to your LinkedIn]** | **[Link to your Email]**
+**[Email: Hinamalik03045@gmail.com]** 
 
-# About the Author
-I am a junior developer with a passion for system design and database management. My goal is to use technology to improve workplace safety and decision-making through data-driven solutions.
-
-Contact
-Email: Hinamalik03045@gmail.com
-
-This project was submitted as part of the Systems Design and Databases module at Teesside University.
