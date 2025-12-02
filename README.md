@@ -1,50 +1,38 @@
-# HinaM-SQL-Portfolio
-Transact-SQL queries and scripts for workplace safety analytics (assignment for Systems Design and Databases)
+# 👩‍💻 Hina Malik | Technical Portfolio
 
-Safety At Work: SQL Server Portfolio
-Author: Hina Malik
-Course: Systems Design and Databases
-Tutor: Miss Bianca Ogbo
-Date: 30th May 2025
+**Data Analyst & Systems Designer** | **Teesside University**
 
-# Overview
-This repository contains my best Transact-SQL (T-SQL) queries and scripts developed for the "Safety At Work" database project. The scripts demonstrate my ability to write clear, efficient SQL code for real-world business scenarios, including compliance reporting, safety analysis, and employee training tracking.
+I am a dedicated student with a verified technical skillset spanning analytical logic, secure system architecture, and hands-on data implementation. Seeking Industrial Placement and Graduate roles in Data and Cyber Security.
 
-# Contents
-Hina-Malik-E4556347-SDD-TSQL-ICA-DEMOS-01-09.pdf – Full assignment with explanations, user stories, and business context.
-Hina-Malik-SafetyAtWork-Database-Creation.sql – Complete script to create and populate the Safety At Work database (tables, keys, and sample data).
-SafetyAtWork-TSQL-Demos.sql – All SQL queries from modules 3 to 9, organized and commented.
+---
 
-# Database Creation
-Before running any demo queries, you must set up your database using the provided creation script:
+## 🏆 Key Skills & Validated Proficiency
 
-Hina-Malik-SafetyAtWork-Database-Creation.sql
-This script creates all necessary tables, relationships, and populates them with sample data for the "Safety At Work" project.
+My technical profile is supported by high-scoring academic work:
 
-Setup Steps:
-Open SQL Server Management Studio (SSMS) or Azure Data Studio.
-Create a new database (e.g., SafetyAtWork).
-Run the database creation script in your new database.
-Verify that all tables and data have been created successfully.
+| Skill Area | Proof of Proficiency | Academic Validation |
+| :--- | :--- | :--- |
+| **1. Advanced Logical Reasoning** | Core analytical, mathematical, and problem-solving abilities. | **89/100** in Algorithmic Problem Solving |
+| **2. Data Implementation** | Hands-on T-SQL coding proficiency with complex queries. | **45/60** in T-SQL Practitioner Report |
+| **3. Secure System Design** | Architectural modeling (UML/ERD) and defining security requirements (R27, R28). | QuickCare UK Design Project |
 
-You can now run the T-SQL demo queries from this portfolio against your freshly created database.
+---
 
-# Highlights
-SELECT, DISTINCT, and Aliases: Retrieve, filter, and present data clearly.
-JOINS and Subqueries: Combine data from related tables for deeper insights.
-Sorting and Filtering: Use WHERE, ORDER BY, TOP, and pattern matching.
-Data Types & Functions: Demonstrate conversion, string, and date functions.
-Data Manipulation (DML): Safely INSERT, UPDATE, and DELETE records.
-Grouping & Aggregation: Use GROUP BY, HAVING, and aggregate functions for reporting.
-Real Business Scenarios: Each query is tied to a practical user story or business need.
+## 📂 Project Portfolio
 
-How to Use
-Download or clone this repository.
+Click the links below to view the evidence (the "proof") for each core skill:
 
-Open the .sql file in SQL Server Management Studio (SSMS) or Azure Data Studio.
-Run Hina-Malik-SafetyAtWork-Database-Creation.sql in your database to create all tables and sample data.
-Run the queries in SafetyAtWork-TSQL-Demos.sql to demonstrate your skills.
-Review the PDF for explanations, user stories, and business context.
+| Project Repository | Evidence Provided |
+| :--- | :--- |
+| **[Link] Algorithmic-Logic-Portfolio** | Documents detailing Stacks/Queues logic and mathematical analysis. |
+| **[Link] HinaM-SQL-Portfolio** | T-SQL scripts and reports for the "Safety At Work" database. |
+| **[Link] QuickCare-System-Design** | UML/ERD diagrams and security requirements for the healthcare application. |
+
+---
+
+## 📧 Contact
+
+**[Link to your LinkedIn]** | **[Link to your Email]**
 
 # About the Author
 I am a junior developer with a passion for system design and database management. My goal is to use technology to improve workplace safety and decision-making through data-driven solutions.
